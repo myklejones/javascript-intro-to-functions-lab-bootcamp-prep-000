@@ -15,12 +15,12 @@ function whisper(string) {
  
   function sayHiToGrandma(string){
    return "I can't hear you!" 
-   console.log.toLowerCase
+   console.log('hello')
   }
     
    function sayHiToGrandma(string){
    return "YES INDEED!"
-   console.log.toUpperCase
+   console.log('HELLO')
    }
    
 
