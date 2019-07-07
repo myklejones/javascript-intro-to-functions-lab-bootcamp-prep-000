@@ -13,14 +13,11 @@ function whisper(string) {
  console.log('hello')
  }
  
-  function sayHiToGrandma(string){
+  function sayHiToGrandma(string) {
    return "I can't hear you!" 
    console.log('hello')
   }
     
-   function sayHiToGrandma(string){
-   return "YES INDEED!"
-   console.log('HELLO')
-   }
+ 
    
 
